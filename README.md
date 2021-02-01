@@ -4,6 +4,6 @@
 
 - I think that good sense of humor helps with connecting people and making better relationships, so memes is a thing with me.
 
-![Alt Text](https://imgflip.com/i/4w8o82)
+![Meme](https://imgflip.com/i/4w8o82)
 
 - 🌱 I’m currently learning Docker

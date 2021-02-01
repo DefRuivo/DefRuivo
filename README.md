@@ -6,4 +6,4 @@
 
 <img src="https://i.imgflip.com/4w8o82.jpg" title="made at imgflip.com"/>
 
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker, Assync Code, API, Deployment

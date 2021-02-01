@@ -7,3 +7,5 @@
 <img src="https://i.imgflip.com/4w8o82.jpg" title="made at imgflip.com"/>
 
 - 🌱 I’m currently learning Docker, Assync Code, API, Deployment
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefRuivo)](https://github.com/anuraghazra/github-readme-stats)

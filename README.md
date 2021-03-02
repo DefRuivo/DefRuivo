@@ -1,8 +1,8 @@
-### Hi, my name is Guilherme Moraes!
+### Hi, my name is Guilherme Moraes! 🤠
 
 ![Alt Text](https://i.imgflip.com/1tlr1p.gif)
 
-- 🤠 i'm studying Python and Django, i'm looking for ways to build tools and automate processes. Since i'm really new at programming (i've been studying for the last year) i'm not good with terminologies, but i'm sure it will be easier with time.
+- i'm studying Python and Django, i'm looking for ways to build tools and automate processes. Since i'm really new at programming (i've been studying for the last year) i'm not good with terminologies, but i'm sure it will be easier with time.
 
 - I think that good sense of humor helps with connecting people and making better relationships, so memes is a thing with me.
 
@@ -10,4 +10,4 @@
 
 - 🌱 I’m currently learning Docker, Assync Code, API, Deployment
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DefRuivo)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme's Github status](https://github-readme-stats.vercel.app/api?username=DefRuivo)](https://github.com/anuraghazra/github-readme-stats)

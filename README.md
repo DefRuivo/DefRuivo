@@ -1,5 +1,7 @@
 ## Hi, my name is Guilherme Moraes! 🤠
 
+</br>
+
 ![Alt Text](https://i.imgflip.com/1tlr1p.gif)
 
 ### I'm currently studying Python and Django. 🐍

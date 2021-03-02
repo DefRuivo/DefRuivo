@@ -16,4 +16,5 @@
   * API
   * Deployment
 
+</br>
 [![Guilherme's Github status](https://github-readme-stats.vercel.app/api?username=DefRuivo)](https://github.com/anuraghazra/github-readme-stats)

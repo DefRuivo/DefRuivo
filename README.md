@@ -1,6 +1,6 @@
 ## <b>Hi, my name is Guilherme Moraes!</b> 🤠
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][Linkedin]
 
 ![Alt Text](https://i.imgflip.com/1tlr1p.gif)
 

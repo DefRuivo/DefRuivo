@@ -8,7 +8,7 @@
 - Looking for ways to build tools and automate processes. 
 - I think that good sense of humor helps with connecting people and making better relationships, so memes are a thing with me.
 
-<img align="left" src="https://i.imgflip.com/4w8o82.jpg" title="made at imgflip.com"/>
+<img align="center" src="https://i.imgflip.com/4w8o82.jpg" title="made at imgflip.com"/>
 
 - 🌱 I’m currently learning:
   * Docker

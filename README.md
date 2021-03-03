@@ -1,6 +1,5 @@
 ## Hi, my name is Guilherme Moraes! 🤠
 
-### Contact:
 <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383262.svg?token=exp=1614789616~hmac=7e11e07287a4842b0d59d1b805c52c60" />
 <br/>
 <br/>

@@ -3,6 +3,7 @@
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 </br>
+
 ![Alt Text](https://i.imgflip.com/1tlr1p.gif)
 
 ### I'm currently studying Python and Django. 🐍

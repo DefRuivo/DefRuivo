@@ -4,7 +4,7 @@
 
 ![Alt Text](https://i.imgflip.com/1tlr1p.gif)
 
-### I'm a self-taught student, currently studying Python and Django. 🐍
+### I'm a self-taught student, currently studying Python and Django. [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />]
 - Looking for ways to build tools and automate processes. 
 - I think that good sense of humor helps with connecting people and making better relationships, so memes are a thing with me.
 

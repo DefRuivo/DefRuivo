@@ -6,7 +6,7 @@
 
 ### I'm a self-taught student, currently studying Python and Django. 🐍
 - Looking for ways to build tools and automate processes. 
-- I think that good sense of humor helps with connecting people and making better relationships, so memes is a thing with me.
+- I think that good sense of humor helps with connecting people and making better relationships, so memes are a thing with me.
 
 <img src="https://i.imgflip.com/4w8o82.jpg" title="made at imgflip.com"/>
 

@@ -1,6 +1,6 @@
-## Hi, my name is Guilherme Moraes! 🤠
+## <b>Hi, my name is Guilherme Moraes!</b> 🤠
 
-[![Linkedin]<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 <br/>
 <br/>
 

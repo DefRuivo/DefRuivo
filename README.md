@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme Moraes</h1>
 <h3 align="center">Self-taught backend dev</h3>
 
-![Alt Text](https://i.imgflip.com/1tlr1p.gif)
+<div align="center">
+  <img width=55% src="https://i.imgflip.com/1tlr1p.gif" />
+</div>
 
 - 🌱 I’m currently learning **Python and Django**
 

@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think that good sense of humor helps with connecting people and making better relationships, so memes are a thing with me.**
 
-<div align="center>            
+<div align="center">            
   <img width=55% src="https://i.imgflip.com/4w8o82.jpg" />
 </div>
 

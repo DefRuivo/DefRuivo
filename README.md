@@ -5,6 +5,8 @@
   <img width=55% src="https://i.imgflip.com/1tlr1p.gif" />
 </div>
 
+- 🤓 I've started learn programming january 2020
+
 - 🌱 I’m currently learning **Python and Django**
 
 - ⚡ Fun fact **I think that good sense of humor helps with connecting people and making better relationships, so memes are a thing with me.**

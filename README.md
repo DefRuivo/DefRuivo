@@ -5,7 +5,7 @@
   <img width=55% src="https://i.imgflip.com/1tlr1p.gif" />
 </div>
 
-- 🌱 I’m currently learning **Python, Django, Flask and Javascript**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 📫 How to reach me **gui.moraes@live.com**
 

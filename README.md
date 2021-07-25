@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Javascript and React**
 
 - 📫 How to reach me:\
-✉️ **Email**: gui.moraes@live.com\
+✉️ **Email**: ruivo.developer@gmail.com\
 📱 **Telegram**: <a href="https://t.me/DefRuivo">DefRuivo</a>
 
 - ⚡ Fun fact **I think that good sense of humor helps with connecting people and making better relationships, so memes are a thing with me.**

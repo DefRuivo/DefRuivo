@@ -5,7 +5,7 @@
   <img width=55% src="https://i.imgflip.com/1tlr1p.gif" />
 </div>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 📫 How to reach me:\
 ✉️ **Email**: ruivo.developer@gmail.com\

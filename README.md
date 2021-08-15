@@ -6,7 +6,7 @@
 </h3>
 
 <div align="center">
-  <img width=55% src="https://i.imgflip.com/1tlr1p.gif" />
+  <img width=35% src="https://i.imgflip.com/1tlr1p.gif" />
 </div>
 
 - 🌱 I’m currently learning **Java and Spring**

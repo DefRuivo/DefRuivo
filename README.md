@@ -1,30 +1,36 @@
-<h1 align="center">
-  Hi 👋, I'm Guilherme Moraes
-</h1>
-<h3 align="center">
-  Self-taught backend dev from Brazil
-</h3>
+<div class="title"> 
+  <h1 align="center">
+    Hi 👋, I'm Guilherme Moraes
+  </h1>
+  <h3 align="center">
+    Self-taught backend dev Jr. from Brazil
+  </h3>
+</div>
 
-<div align="center">
+<div align="center" class="meme">
   <img width=35% src="https://i.imgflip.com/1tlr1p.gif" />
 </div>
 
-- 🌱 I’m currently learning **Java and Spring**
-
-- 📫 How to reach me:\
-✉️ **Email**: ruivo.developer@gmail.com\
-📱 **Telegram**: <a href="https://t.me/DefRuivo">DefRuivo</a>
+<p>
+  - 🌱 I’m currently learning Java and Spring
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/defruivo/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
   </a>
-
+  <a href="mailto:ruivo.developer@gmail.com">
+    <img src="https://img.icons8.com/ios/50/000000/secured-letter--v1.png"/>
+  </a>
+  <a href="https://t.me/DefRuivo">
+    <img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>
+  </a>
+  
 <h3 align="left">
   Languages and Tools:
 </h3>
-<div>
+<div class="icons">
   <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -75,7 +81,7 @@
     </a> 
     <a href="https://www.sqlite.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a> 
+    </a>
   </p> 
 </div>
 

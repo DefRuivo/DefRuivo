@@ -1,8 +1,8 @@
 ---
 
-# Olá! Eu sou o(a) Guilherme de Matos Moraes
+# Olá! Eu sou o Guilherme de Matos Moraes
 
-Sou um(a) SRE (Site Reliability Engineer) Junior apaixonado(a) por garantir a disponibilidade e confiabilidade de sistemas de forma eficiente. Tenho conhecimento em APIs 🐍 Python e 🖥️ Java para o desenvolvimento de aplicações de alta disponibilidade e experiência na implementação de infraestrutura na nuvem com o 🌪️ AWS (Amazon Web Services) e em Ambiente On-Premise. 
+Sou um SRE (Site Reliability Engineer) Junior apaixonado por garantir a disponibilidade e confiabilidade de sistemas de forma eficiente. Tenho conhecimento em APIs 🐍 Python e 🖥️ Java para o desenvolvimento de aplicações de alta disponibilidade e experiência na implementação de infraestrutura na nuvem com o 🌪️ AWS (Amazon Web Services) e em Ambiente On-Premise. 
 
 Também possuo habilidades em ferramentas de automação de infraestrutura, como:
 - 🔨 Saltstack

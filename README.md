@@ -1,17 +1,31 @@
----
-
 # Olá! Eu sou o Guilherme de Matos Moraes
 
-Sou um SRE (Site Reliability Engineer) Junior apaixonado por garantir a disponibilidade e confiabilidade de sistemas de forma eficiente. Tenho conhecimento em APIs 🐍 Python e 🖥️ Java para o desenvolvimento de aplicações de alta disponibilidade e experiência na implementação de infraestrutura na nuvem com o 🌪️ AWS (Amazon Web Services) e em Ambiente On-Premise. 
+Sou um SRE (Site Reliability Engineer) Junior comprometido em garantir a alta disponibilidade e confiabilidade de sistemas críticos. Minha paixão pela tecnologia me leva a buscar soluções inovadoras que otimizem processos e melhorem a performance dos ambientes de TI.
 
-Também possuo habilidades em ferramentas de automação de infraestrutura, como:
-- 🔨 Saltstack
-- 🤖 Ansible
-- 🌎 Terraform
-- 🌀 Kubernetes
+### Minhas Principais Áreas de Atuação
 
-Tenho experiência no uso de banco de dados em memória 🔴 Redis e no gerenciamento de containers de aplicações com o 🐳 Docker. Além disso, tenho habilidades em 💻 Shell Script para automatização de tarefas rotineiras. 
+- **Desenvolvimento de APIs:**  
+  Trabalho com **Python 🐍** e **Java 🖥️** para criar aplicações robustas e escaláveis, integrando serviços de forma eficaz.
 
-Sou uma pessoa dedicada a aprender e aperfeiçoar minhas habilidades para garantir a disponibilidade e confiabilidade de sistemas de forma eficiente.
+- **Infraestrutura em Nuvem e On-Premise:**  
+  Implemento e gerencio ambientes seguros e escaláveis utilizando **AWS 🌪️** e soluções locais, sempre com foco em performance e segurança.
 
-E-mail: ruivo.developer@gmail.com
+- **Automação de Infraestrutura:**  
+  Possuo experiência prática com ferramentas que simplificam e otimizam a gestão de sistemas:  
+  - 🔨 **SaltStack**  
+  - 🤖 **Ansible**  
+  - 🌎 **Terraform**  
+  - 🌀 **Kubernetes**
+
+- **Gerenciamento de Containers e Bancos de Dados:**  
+  - Utilizo **Docker 🐳** para administrar containers de aplicações.  
+  - Trabalho com **Redis 🔴** para otimizar o desempenho de bancos de dados in-memory.
+
+- **Automação de Processos:**  
+  Através de **Shell Script 💻**, automatizo tarefas rotineiras para aumentar a produtividade e reduzir falhas operacionais.
+
+Estou sempre em busca de novos conhecimentos e desafios que me permitam evoluir profissionalmente e contribuir para a inovação em cada projeto.
+
+Se você quiser conversar sobre tecnologia, automação ou oportunidades de colaboração, fique à vontade para entrar em contato!
+
+**E-mail:** ruivo.developer@gmail.com

@@ -1,5 +1,3 @@
-Ajustei para **Senior** e deixei mais alinhado com seu perfil de **SRE/DevOps**, automação, AWS, infraestrutura, CI/CD, Linux, containers, observabilidade e ambientes on-premise.
-
 # Hi! I'm Guilherme de Matos Moraes
 
 ### Senior Site Reliability Engineer | DevOps Engineer | AWS | Kubernetes | Terraform | Automation

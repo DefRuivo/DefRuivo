@@ -40,10 +40,6 @@ My experience includes supporting critical services, investigating incidents, im
 
 I'm especially interested in **DevOps, SRE, cloud infrastructure, Kubernetes, platform engineering, and infrastructure automation**.
 
-## Open to International Opportunities
-
-I'm interested in **fully remote Senior DevOps Engineer, Site Reliability Engineer (SRE), and Platform Engineer** roles with international companies **hiring engineers based in Brazil (LATAM)**, including **B2B / contractor** arrangements.
-
 ## Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/defruivo](https://www.linkedin.com/in/defruivo/)
